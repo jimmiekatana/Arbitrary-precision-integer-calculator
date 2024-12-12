@@ -146,8 +146,8 @@ Contributions are welcome! Please submit pull requests or open issues on the pro
 
 ## License
 
-[Insert appropriate license information]
+MIT licence
 
 ## Authors
 
-[Your Name/Organization]
+Jimmy Ndhundhi Katana
